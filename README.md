@@ -10,7 +10,7 @@ This project analyses employment trends across industries in Yorkshire and the H
 The study provides insights into industry growth, resilience and potential future changes in the regional labour market.
 
 ## Repository Contents
-- **R Code**: Scripts for data cleaning, processing, analysis, and visualisation
+- **R Code**: `intro_ds_code.R` Scripts for data cleaning, processing, analysis, and visualisation
 - **Dataset**: `bres_yorkshire_industry.xlsx` containing annual employment data by industry
 - **Plots**: Folder containing all visualisations generated for the report (trends, COVID-19 impact, projected 2030 employment)
 
