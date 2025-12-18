@@ -1,32 +1,32 @@
 # Yorkshire Industry Employment Analysis 
 
 ## Project Overview
-This project analyses employment trends across industries in Yorkshire and the Humber from 2015 to 2024. It examines:
+This project looks at employment trends across industries in Yorkshire and the Humber from 2015 to 2024. I explored:
 
-- Historical employment patterns across different industries
-- The impact of the COVID-19 pandemic (2019–2021)
+- How employment has changed across different industries over time
+- The impact of COVID-19 (2019–2021) on jobs
 - Predicted employment levels in 2030 using regression-based forecasting
 
-The study provides insights into industry growth, resilience and potential future changes in the regional labour market.
+The goal was to highlight industry growth, resilience and potential shifts in the regional labour market.
 
 ## Repository Contents
-- **R Code**: `intro_ds_code.R` Scripts for data cleaning, processing, analysis, and visualisation
-- **Dataset**: `bres_yorkshire_industry.xlsx` containing annual employment data by industry
-- **Plots**: Folder containing all visualisations generated for the report (trends, COVID-19 impact, projected 2030 employment)
+- **R Code**: `intro_ds_code.R` - scripts for data cleaning, processing, analysing and visualising the data
+- **Dataset**: `bres_yorkshire_industry.xlsx` - annual employment data by industry
+- **Plots**: Folder with all the visualisations used in the report (trends, COVID-19 impact, 2030 projections)
 
 ## Visualisations
-Key visualisations include:
-- Employment trends by industry (2015–2024)
+The plots used include:
+- Employment trends by industry (2015-2024)
 - Top 5 industries by total employment
 - Percentage growth by industry
-- COVID-19 employment impact
+- COVID-19 impact on employment
 - Predicted employment growth to 2030
-- Pie chart showing the predicted 2030 employment distribution
+- Pie chart showing predicted employment distribution in 2030
 
-## How to Use
-1. Open the R scripts in RStudio or another R environment.
-2. Make sure the dataset (`bres_yorkshire_industry.xlsx`) is in the same directory.
-3. Run the scripts to reproduce the analysis and generate the plots.
+## How to Run
+1. Open `intro_ds_code.R` in RStudio (or another R environment).
+2. Make sure the dataset (`bres_yorkshire_industry.xlsx`) is in the same folder.
+3. Run the scripts to reproduce the analysis and generate all the plots.
 
 ## Author
 **Uche Dumzo-Ajufo**  
